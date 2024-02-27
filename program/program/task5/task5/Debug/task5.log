@@ -1,0 +1,6 @@
+﻿  task5.c
+C:\Users\bitf21m557\Desktop\program\task5\task5\task5.c(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bitf21m557\Desktop\program\task5\task5\task5.c(42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bitf21m557\Desktop\program\task5\task5\task5.c(16): warning C4715: 'findlowert': not all control paths return a value
+C:\Users\bitf21m557\Desktop\program\task5\task5\task5.c(29): warning C4715: 'findHighest': not all control paths return a value
+  task5.vcxproj -> C:\Users\bitf21m557\Desktop\program\task5\Debug\task5.exe
